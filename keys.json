@@ -4,10 +4,15 @@
     "m8&N2b@R5xY1",
     "T4$wQ7*eJ9pV"
   ],
+    "Troll_Keys": [
+    "julianpeetersonadminkey"
+  ],
   "perm_keys": [
-    "PERM-ADMIN-KEY-001",
-    "PERM-DEV-KEY-999"
+    "IAN-ADMIN-KEY",
+    "DALLAS-ADMIN-KEY",
+    "BRAYDEN-AURA-ADMIN-KEY"
   ]
 }
+
 
 
